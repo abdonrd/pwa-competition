@@ -23,13 +23,25 @@ Fill in the below template for your entry
 -------------------------------------------------------------------------------
 
 
-# [Your app name here]
+# GDG Spain
 
 ## App description
 
+The GDG Spain official website.
+Information about the community, the groups, the events, etc
 
 ## Technologies used
 
+* Polymer
+* Polymer CLI
+* Firebase
+* Google App Engine
+* Travis
+
+## Source code
+
+[github.com/GDGSpain/gdg.es](https://github.com/GDGSpain/gdg.es)
 
 ## Link to live demo
-Contest entries need to be hosted online and be accessible at least through the judging period (May 31 – June 5).
+
+[https://develop-dot-gdg-es.appspot.com](https://develop-dot-gdg-es.appspot.com) (Soon in [https://gdg-es](https://gdg-es))
