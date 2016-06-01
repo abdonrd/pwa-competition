@@ -44,4 +44,4 @@ Information about the community, the groups, the events, etc
 
 ## Link to live demo
 
-[https://develop-dot-gdg-es.appspot.com](https://develop-dot-gdg-es.appspot.com) (Soon in [https://gdg-es](https://gdg-es))
+[https://gdg-es.appspot.com](https://gdg-es.appspot.com) (Soon in [https://gdg-es](https://gdg-es))
